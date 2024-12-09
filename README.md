@@ -30,9 +30,7 @@ These data are intended to:
 
 ## Citation
 
-If you use this data in your research, please cite the corresponding article:
-
-Citation Here
+If you use this data in your research, please cite the corresponding article.
 
 ## Contact
 
