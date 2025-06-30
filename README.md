@@ -1,4 +1,4 @@
-This repository contains the data used in the article titled **Optical Fiber Macrobend Sensor Assisted by Artificial Intelligence for Monitoring a Flexible Structure**, which focuses on the development and testing of an optical fiber sensor based on helical geometry for deformation monitoring.
+This repository contains the data used in the article titled **Optical Fiber Macrobend Sensor Assisted by Artificial Intelligence for Monitoring a Flexible Structure** (OFS29), which focuses on the development and testing of an optical fiber sensor based on helical geometry for deformation monitoring.
 
 ## File Overview
 
@@ -11,7 +11,7 @@ This compressed file contains the following data files:
 
 2. **Deformation Configurations (`.xlsx` file):**
    - Contains the deformation parameters associated with each sample, organized in sequential order.
-   - Each configuration specifies the deformation applied to the monitored structure during the experiments.
+   - Each configuration is associated with the deformation applied to the monitored structure during the experiments.
 
 ## How to Use
 
@@ -24,7 +24,7 @@ This compressed file contains the following data files:
 
 These data are intended to:
 
-1. Support reproducibility of the results presented in the article.
+1. Support the reproducibility of the results presented in the article.
 2. Provide a resource for further analysis of optical fiber sensors and deformation monitoring.
 3. Enable validation of the proposed methodology in related studies.
 
